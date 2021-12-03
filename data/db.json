@@ -36,6 +36,18 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Velit voluptatibus ",
+      "ingredients": [
+        "test",
+        "test1",
+        "test2",
+        "test3"
+      ],
+      "method": "Recipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\nRecipe method:\n",
+      "cookingTime": "38 minutes",
+      "id": "6xfGpaj"
     }
   ]
 }
